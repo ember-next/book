@@ -4,7 +4,7 @@
 
 ## Native Classes and Decorators
 
-* [Introduction](native-classes-and-decorators/untitled-1.md)
+* [Introduction](native-classes-and-decorators/introduction.md)
 * [Stability and Support](native-classes-and-decorators/stability-and-support.md)
 * [Class Basics](native-classes-and-decorators/class-basics.md)
 * [Class Fields](native-classes-and-decorators/class-fields.md)
